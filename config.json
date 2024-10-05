@@ -1,20 +1,20 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://github.com/r3lativee/r3lativee",
+  "title": "R 3 L A T I V E",
+  "name": "Shashanka Gogoi",
+  "ascii": "Shashanka Gogoi",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "https://github.com/r3lativee",
+    "linkedin": "https://www.linkedin.com/in/shashanka-gogoi-93201516b/"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "email": "shashankagogoi25@gmail.com",
+  "ps1_hostname": "r3lative",
+  "ps1_username": "shashanka",
+  "repo": "https://github.com/r3lativee?tab=repositories&q=&type=public&language=&sort=",
+  "resume_url": "https://r3lative.vercel.app",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "N/A",
+    "patreon": "N/A"
   },
   "colors": {
     "light": {
